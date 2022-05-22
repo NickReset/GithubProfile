@@ -8,7 +8,8 @@
 
 ## Social Media
 - Discord: NickRest#3939 </br>
-- TikTok: [Nick](https://www.tiktok.com/@nickreset?lang=en)</br>
+- TikTok: [George](https://www.tiktok.com/@nickreset?lang=en)</br>
+- NameMC: [NickRest](https://namemc.com/profile/NickRest.1)</br>
 
 ## Programming languages
 - Java </br>
@@ -17,5 +18,8 @@
 - C# (kinda) </br>
 - C++ (kinda) </br>
 
+## Most Used Languages
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickreset&theme=dracula)](https://github.com/NickReset)
+
 ## Github Stats
-[![github stats](https://github-readme-streak-stats.herokuapp.com/?user=nickreset&theme=dracula)](https://github.com/nickreset/github-readme-stats)
+[![github Stats](https://github-readme-streak-stats.herokuapp.com/?user=nickreset&theme=dracula)](https://github.com/NickReset)
