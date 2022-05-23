@@ -18,6 +18,9 @@
 - C# (kinda) </br>
 - C++ (kinda) </br>
 
+## Discord
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853392200078983182)](https://discord.com/users/853392200078983182)
+
 ## Most Used Languages
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickreset&theme=dracula)](https://github.com/NickReset)
 
