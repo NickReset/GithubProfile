@@ -5,6 +5,7 @@
 ## About me
 - I'm considered a fullstack developer but I'm bad at frontend development </br>
 - I'm fluent in Java, JavaScript and Python </br>
+- Even tho you know my name call me Nick </br>
 
 ## Social Media
 - Discord: NickRest#3939 </br>
