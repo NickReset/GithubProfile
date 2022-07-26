@@ -9,7 +9,7 @@
 
 ## Social Media
 - Discord: NickRest#3939 </br>
-- TikTok: [George](https://www.tiktok.com/@nickreset?lang=en)</br>
+- TikTok: [Nick](https://www.tiktok.com/@nickrest?lang=en)</br>
 - NameMC: [NickRest](https://namemc.com/profile/NickRest.1)</br>
 
 ## Programming languages
