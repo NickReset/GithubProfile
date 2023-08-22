@@ -7,7 +7,7 @@
 - I'm fluent in Java, JavaScript and Python </br>
 
 ## Social Media
-- Discord: NickRest#3939 </br>
+- Discord: @nickrest </br>
 - TikTok: [Nick](https://www.tiktok.com/@nickrest?lang=en)</br>
 - NameMC: [NickRest](https://namemc.com/profile/NickRest.1)</br>
 
